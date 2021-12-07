@@ -1,0 +1,12 @@
+.home{
+    
+    border-radius: 3px;
+    width: 50%;
+    height: fit-content;
+    margin: 2em auto;
+    background-color: rgba(165, 176, 187, 0.493);
+    box-shadow: 2px 2px 2px 3px rgba(230, 217, 217, 0.438);
+    color: rgba(14, 1, 1, 0.37);
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
