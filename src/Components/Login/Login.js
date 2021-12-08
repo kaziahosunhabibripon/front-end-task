@@ -9,7 +9,7 @@ const Login = () => {
 
     console.log(watch("example"));
     return (
-        <>
+        <section>
             <div className="login">
                 <h1 className="title">
                     Login to your account
@@ -32,7 +32,7 @@ const Login = () => {
                     <span> /<a href="/login"> Create Your Account </a></span>
                 </div>
             </div>
-        </>
+        </section>
     )
 }
 

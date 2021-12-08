@@ -4,12 +4,12 @@ import './Home.css';
 
 const Home = () => {
   return (
-    <>
+    <section>
       <div className="home">
         
         <Login />
       </div>
-    </>
+    </section>
   );
 };
 
