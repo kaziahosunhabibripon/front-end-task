@@ -3,8 +3,8 @@ import Home from './Components/Home/Home';
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Link
+  Route
+  
 } from "react-router-dom";
 
 
@@ -15,6 +15,7 @@ function App() {
         <Route path ='/'>
             <Home/>
         </Route>
+        
       </Switch>
     </Router>
   );
